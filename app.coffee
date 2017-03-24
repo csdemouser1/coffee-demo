@@ -1,5 +1,5 @@
 # Assignment:
-number   = 42
+number   = 4
 opposite = true
 
 # Conditions:
